@@ -16,7 +16,8 @@ void main() => runApp(BodyMass());
           ),
           ),
       ),
-       home: InputPage(),
+       home: InputPage(
+       ),
      );
    }
  }
